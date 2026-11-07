@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Hamidreza Kalhor - Embedded Software Engineer</title>
+  <desc id="desc">Profile header with a circuit-inspired blue design</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <circle cx="1030" cy="76" r="220" fill="url(#glow)"/>
+  <g fill="none" stroke="#7dd3fc" stroke-width="2" stroke-opacity="0.28">
+    <path d="M850 42h82l24 24h112"/>
+    <path d="M900 94h76l34 34h150"/>
+    <path d="M842 212h92l28-28h152"/>
+    <path d="M1000 232v-52l28-28h132"/>
+    <path d="M1080 30v42l26 26h54"/>
+  </g>
+  <g fill="#7dd3fc" fill-opacity="0.75">
+    <circle cx="850" cy="42" r="5"/>
+    <circle cx="900" cy="94" r="5"/>
+    <circle cx="842" cy="212" r="5"/>
+    <circle cx="1000" cy="232" r="5"/>
+    <circle cx="1080" cy="30" r="5"/>
+    <circle cx="1160" cy="128" r="5"/>
+    <circle cx="1114" cy="184" r="5"/>
+  </g>
+  <rect x="72" y="54" width="6" height="172" rx="3" fill="#38bdf8"/>
+  <text x="112" y="122" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Hamidreza Kalhor</text>
+  <text x="114" y="170" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500">Embedded Software Engineer</text>
+  <text x="114" y="210" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Firmware  |  RTOS  |  Embedded Linux  |  Payment Systems</text>
+</svg>
