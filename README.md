@@ -6,20 +6,20 @@ I work close to the hardware - from low-level firmware and board bring-up to com
 
 ## Engineering Focus
 
-- **Firmware & RTOS:** Embedded C/C++, real-time systems, device drivers, hardware abstraction, and memory-conscious design
-- **Embedded Linux & Android:** Custom kernels, Yocto, Buildroot, device trees, board support, and peripheral integration
-- **Connected Devices:** TCP/IP, HTTP/HTTPS, internal web servers, remote updates, and device telemetry
-- **Industrial Communication:** Modbus, CANopen, RS485, RS422, RS232, Wiegand, and RFID
-- **Hardware Platforms:** ARM-based SoCs, STM32, ESP32, AVR, Holtek, and STM8
+- **Firmware & RTOS** — `Embedded C` · `C++` · `RTOS` · `Device Drivers` · `HAL` · `Memory-Conscious Design`
+- **Embedded Linux & Android** — `Custom Kernels` · `Yocto` · `Buildroot` · `Device Trees` · `Board Support Packages` · `Peripheral Integration`
+- **Connected Devices** — `TCP/IP` · `HTTP/HTTPS` · `Embedded Web Servers` · `Remote Updates` · `Device Telemetry`
+- **Industrial Communication** — `Modbus` · `CANopen` · `RS485` · `RS422` · `RS232` · `Wiegand` · `RFID`
+- **Hardware Platforms** — `ARM SoCs` · `STM32` · `ESP32` · `AVR` · `Holtek` · `STM8`
 
 ## Experience Highlights
 
-- Develop C firmware for production payment terminals, with an emphasis on reliability, diagnostics, networking, and safe update flows.
-- Built custom embedded Linux and Android platforms for Rockchip-based industrial boards, including kernel, device-tree, display, touch, USB, serial, and audio integration.
-- Developed industrial controllers for smart locks, combi ovens, sensor nodes, robotic parking systems, and environmental control devices.
-- Designed networked access-control systems with RFID readers, secure TCP/IP communication, anti-tailgating logic, and robust field interfaces.
-- Implemented PID-based temperature control, event logging, health-monitoring telemetry, and web-connected device platforms.
-- Applied DFM/DFT, EMI/ESD-aware design, layered architecture, design patterns, and Agile development in production projects.
+- **Payment Systems** — Develop C firmware for production terminals, with an emphasis on reliability, diagnostics, networking, and safe update flows.
+- **Embedded Platforms** — Built custom Linux and Android platforms for Rockchip-based industrial boards, including kernel, device-tree, display, touch, USB, serial, and audio integration.
+- **Industrial Control** — Developed controllers for smart locks, combi ovens, sensor nodes, robotic parking systems, and environmental control devices.
+- **Access Control** — Designed networked systems with RFID readers, secure TCP/IP communication, anti-tailgating logic, and robust field interfaces.
+- **Control & Telemetry** — Implemented PID-based temperature control, event logging, health-monitoring telemetry, and web-connected device platforms.
+- **Engineering Practices** — Applied DFM/DFT, EMI/ESD-aware design, layered architecture, design patterns, and Agile development in production projects.
 
 ## Technology Stack
 
