@@ -53,9 +53,16 @@ I work close to the hardware - from low-level firmware and board bring-up to com
 
 ## Education & Recognition
 
-- **B.Sc. in Energy Engineering** - Amirkabir University of Technology (Tehran Polytechnic)
-- **Best Technical Team** - RoboCup Asia, 2019
-- **Best Technical Team** - IranOpen, 2018
+### 🎓 Education
+
+**B.Sc. in Energy Engineering**
+
+*Amirkabir University of Technology (Tehran Polytechnic)*
+
+### 🏆 Awards
+
+- 🥇 **Best Technical Team** — RoboCup Asia · 2019
+- 🥇 **Best Technical Team** — IranOpen · 2018
 
 ## Engineering Principles
 
